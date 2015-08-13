@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1426577865 source:c:\users\sara\desktop\c++\projects\siamesewar1785\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1426577866 source:c:\users\t.grear\desktop\siamesewar1785\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1438318996 source:c:\users\t.grear\desktop\siam\siamesewar1785\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+
+1439448044 source:c:\users\t.grear\desktop\c++\siamesewar1785\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+
